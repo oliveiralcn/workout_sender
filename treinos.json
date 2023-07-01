@@ -1,0 +1,253 @@
+{
+    "homem" : {
+        "iniciante":{
+            "A":[
+                "Supino reto - 3 x 8/12",
+                "Supino inclinado - 3 x 8/12",
+                "Voador - 3 x 10/15",
+                "Triceps Francês - 3 x 8/12",
+                "Triceps na polia com corda - 3 x 10/15",
+                "Triceps testa com halteres - 3 x 8/12",
+                "Elevação lateral - 3 x 12/15",
+                "Elevação frontal - 3 x 12/15"
+            ],
+            "B":[
+                "Agachamento Livre - 3 x 15/20",
+                "Leg Press - 3 x 12/15",
+                "Hack - 3 x 8/12",
+                "Cadeira extensora - 3 x 12/15",
+                "Mesa Flexora - 3 x 10/12",
+                "Cadeira Flexora - 3 x 12/15",
+                "Cadeira Adutora - 3 x 12/15",
+                "Cadeira Abdutora - 3 x 12/15",
+                "Panturrilha em pé - 3 x 15/20",
+                "Panturrilha sentado - 3 x 15/20"
+            ],
+            "C":[
+                "Puxada alta aberta - 3 x 8/15",
+                "Puxada alta fechada - 3 x 8/15",
+                "Remada baixa - 3 x 12/15",
+                "Pull Down - 3 x 10/15",
+                "Rosca Direta - 3 x 10/15",
+                "Rosca Alternada - 3 x 10/12",
+                "Biceps no Banco Scoth - 3 x 8/12"
+            ]
+        },
+        "intermediario":{
+            "A":[
+                "Supino inclinado - 3 x 8/15",
+                "Crucifixo inclinado - 3 x 10/15",
+                "Supino reto - 3 x 10/12",
+                "Voador - 4 x 8+15(reduz a carga)",
+                "Triceps Francês na polia baixa- 3 x 12/15",
+                "Triceps Coice - 3 x 10/12",
+                "Tríceps testa com barra - 3 x 10/15",
+                "Tríceps cruzado na polia média"
+            ],
+            "B":[
+                "Cadeira extensora - 3 x 12/15",
+                "Agachamento Livre - 3 x 15/20",
+                "Leg Press - 3 x 12/15",
+                "Hack - 3 x 8/12",
+                "Afundo - 3 x 10/15",
+                "Cadeira Flexora - 3 x 12/15",
+                "Mesa Flexora - 3 x 10/15",
+                "Cadeira Abdutora - 3 x 12/15",
+                "Panturrilha em pé - 3 x 15/20",
+                "Panturrilha sentado - 3 x 15/20"
+            ],
+            "C":[
+                "Puxada alta aberta - 3 x 8/15",
+                "Puxada alta pegada neutra - 3 x 8/15",
+                "Remada articulada pegada neutra - 3 x 12/15",
+                "Remada articulada pegada pronada - 3 x 8/12",
+                "Pull Down - 3 x 10/15",
+                "Rosca Direta - 3 x 10/15",
+                "Rosca isométrica - 3 x 10/12",
+                "Biceps no Banco Scoth - 3 x 8/12"
+            ],
+            "D":[
+                "Elevação lateral - 3 x 10/15",
+                "Elevação frontal com anilha - 3 x 10/15",
+                "Voador invertido - 3 x 12/15",
+                "Desenvolvimento - 3 x 10/15",
+                "Abdominal supra - 3 x 15/20",
+                "Abdominal infra - 3 x 10/15",
+                "Prancha isométrica - 3 x 40/50 segundos"
+            ]
+        },
+        "avancado":{
+            "A":[
+                "Supino inclinado - 3 x 8/15",
+                "Puxada alta aberta - 3 x 10/12",
+                "Crucifixo inclinado - 3 x 10/15",
+                "Puxada alta pegada neutra - 3 x 10/12",
+                "Supino reto - 3 x 10/15",
+                "Remada articulada pegada neutra - 3 x 12",
+                "Voador - 4 x 10|10|10(reduz a carga)",
+                "Remada baixa inclinada com barra - 3 x 12/15",
+                "Cross polia alta - 3 x 12/15",
+                "Remada articulada pegada pronada - 3 x 10/12",
+                "Flexão de braço - 3 x 10/15 (pode ser executada no joelho)",
+                "Cruxifixo invertido - 3 x 10/12"
+            ],
+            "B":[
+                "Agachamento Livre - 3 x 15/20",
+                "Leg Press - 3 x 12/15",
+                "Cadeira extensora - 3 x 8|12|20 (dropando carga)",
+                "Agachamento sumô - 3 x 15 + 30s de isometria",
+                "Hack - 3 x 8/12",
+                "Afundo - 3 x 10/15",
+                "Extensão de joelhos no colchonete - 3 x 15/20",
+                "Panturrilha sentado - 3 x 15 + Panturrilha em pé - 3 x 20"
+            ],
+            "C":[
+                "Rosca Direta - 3 x 10/15",
+                "Triceps francês - 3 x 10/15",
+                "Rosca isométrica - 3 x 10/12",
+                "Triceps testa - 3 x 10/15",
+                "Biceps no banco inclinado - 3 x 10/12",
+                "Triceps na polia com barra - 3 x 12/15",
+                "Biceps no Banco Scoth - 3 x 8/12",
+                "Triceps coice - 3 x 10/15"
+            ],
+            "D":[
+                "Cadeira flexora - 3 x 15/20",
+                "Mesa flexora - 3 x 10/15",
+                "Flexão de joelhos em pé - 3 x 10/12",
+                "Stiff - 3 x 12/15",
+                "Leg (pés altos) - 3 x 12/15 + Bulgaro - 3 x 15",
+                "Elevação pélvica - 3 x 10/15",
+                "Cadeira abdutora - 3 x 12",
+                "Cadeira adutora - 3 x 12"
+            ],
+            "E":[
+                "Elevação lateral - 12 + (série especial '21')",
+                "Elevação lateral inclinada - 3 x 12",
+                "Elevação frontal na polia baixa - 3 x 12",
+                "Desenvolvimento - 3 x 15",
+                "Pull face - 3 x 12",
+                "Crucifixo invertido (adaptado para os ombros) - 3 x 12",
+                "Abdominal supra com pés elevados - 3 x 20",
+                "Abdominal infra com pernas extendidas - 3 x 15",
+                "Giro russo - 3 x 30/40"
+            ]
+        }
+    },
+    "mulher":{
+        "iniciante":{
+            "A":[
+                "Agachamento sumô - 3 x 10/15",
+                "Cadeira extensora - 3 x 10/15",
+                "Leg - 3 x 8/12",
+                "Hack squat - 3 x 8/12",
+                "Cadeira flexora - 3 x 12/15",
+                "Mesa flexora - 3 x 10/12",
+                "Cadeira adutora - 3 x 12/15",
+                "Cadeira abdutora - 3 x 12/15",
+                "Panturrilha em pé - 3 x 15/20"
+            ],
+            "B":[
+                "Supino inclinado - 3 x 15",
+                "Voador - 3 x 15",
+                "Puxada alta aberta - 3 x 12/15",
+                "Remada baixa com o triangulo - 3 x 15",
+                "Rosca direta - 3 x 12",
+                "Rosca alternada - 3 x 12",
+                "Triceps francês - 3 x 10/12",
+                "Triceps na polia com a corda - 3 x 15",
+                "Elevação lateral - 3 x 12",
+                "Elevação frontal - 3 x 12"
+            ]
+        },
+        "intermediario":{
+            "A":[
+                "Agachamento livre - 3 x 15",
+                "Cadeira extensora - 3 x 10/15",
+                "Agachamento sumô - 3 x 10/15",
+                "Leg - 3 x 12/15",
+                "Afundo - 3 x 15",
+                "Hack - 3 x 12",
+                "Panturrilha sentada - 3 x 15",
+                "Panturrilha em pé - 3 x 15/20"
+            ],
+            "B":[
+                "Supino inclinado - 3 x 15",
+                "Voador - 3 x 15",
+                "Puxada alta aberta - 3 x 12/15",
+                "Remada baixa com o triangulo - 3 x 15",
+                "Rosca direta - 3 x 12",
+                "Rosca alternada - 3 x 12",
+                "Triceps francês - 3 x 10/12",
+                "Triceps na polia com a corda - 3 x 15",
+                "Elevação lateral - 3 x 12",
+                "Elevação frontal - 3 x 12"
+            ],
+            "C":[
+                "Cadeira flexora - 3 x 15",
+                "Mesa flexora - 3 x 15",
+                "Stiff - 3 x 12/15",
+                "Elevação pélvica - 3 x 15",
+                "Cadeira abdutora - 3 x 15",
+                "Cadeira adutora - 3 x 15",
+                "Coice - 3 x 12",
+                "Passadas laterias com miniband - 4 x 20"
+            ]
+        },
+        "avancado":{
+            "A":[
+                "Agachamento livre - 3 x 15",
+                "Cadeira extensora - 3 x 8|12|15 (dropando carga)",
+                "Cadeira adutora - 3 x 15",
+                "Agachamento sumô - 3 x 10/15 + Afundo - 3 x 15",
+                "Hack squat- 3 x 12",
+                "Leg - 3 x 12/15",
+                "Flexão de quadril - 3 x 15",
+                "Extensão de joelhos no colchonete - 3 x 20",
+                "Panturrilha sentada - 3 x 15 + Panturrilha em pé - 3 x 20"
+            ],
+            "B":[
+                "Rosca direta - 3 x 12",
+                "Rosca alternada - 3 x 12",
+                "Triceps francês - 3 x 10/12",
+                "Triceps na polia com a corda - 3 x 15",
+                "Elevação lateral - 3 x 12",
+                "Elevação frontal - 3 x 12",
+                "Abdominal supra com pés elevados - 3 x 30",
+                "Abdominal infra com pernas extendidas - 3 x 20",
+                "Giro russo - 3 x 30"
+            ],
+            "C":[
+                "Cadeira flexora - 4 x 20",
+                "Mesa flexora - 3 x 15|20 (reduz a carga)",
+                "Flexão de joelhos em pé - 3 x 15",
+                "Stiff - 3 x 15",
+                "Passadas laterias com miniband - 4 x 20",
+                "Cadeira abdutora - 3 x 15|20",
+                "Elevação pélvica - 3 x 15",
+                "Coice - 3 x 12 + Abdução na polia baixa  - 3 x 10",
+                "Bulgaro - 3 x 20"
+            ],
+            "D":[
+                "Supino inclinado - 3 x 15",
+                "Supino reto - 3 x 15",
+                "Voador - 3 x 15",
+                "Remada baixa inclinada - 3 x 12",
+                "Puxada alta aberta - 3 x 15",
+                "Remada articulada pegada pronada - 3 x 12",
+                "Voador invertido - 3 x 15",
+                "Pull down - 3 x 15"
+            ],
+            "E":[
+                "Cadeira extensora - 4 x 20",
+                "Cadeira flexora - 3 x 20",
+                "Agachamento livre - 3 x 12",
+                "Cadeira abdutora - 3 x 20",
+                "Hack squat - 3 x 15",
+                "Terra squat - 3 x 15",
+                "Leg - 3 x 15",
+                "Coice na polia - 3 x 15"
+            ]
+        }
+    }
+} 
